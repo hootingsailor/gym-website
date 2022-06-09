@@ -1,0 +1,21 @@
+.banner{
+    position: relative;
+}
+
+.banner img{
+    height: 350px;
+    width: 100%;
+    opacity: 0.6;
+}
+
+.banner h1{
+    font-family: "Sofia", sans-serif;
+    font-weight: 900;
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+    padding: 10px 50px;
+    position: absolute;
+    top: 20%;
+    width: 100%;
+    text-align: center;
+}
