@@ -23,6 +23,38 @@
     justify-content: space-between;
 }
 
+.justify-center{
+    justify-content: center;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
 .font-bold{
-    font-weight: bold;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+.my-1{
+    margin-top: 33px;
+    margin-bottom: 33px;
+}
+
+.px-2{
+    padding-left: 13px;
+    padding-right: 13px;
+}
+
+.text-blue{
+    color: rgb(14, 162, 215);
+}
+
+.btn{
+    padding: 7px 12px;
+    border: 2px solid white;
+    border-radius: 6px;
+    cursor: pointer;
+    color: white;
+    background-color: rgb(14, 162, 215);
 }

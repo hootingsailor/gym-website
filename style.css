@@ -27,3 +27,15 @@ main{
     list-style: none;
     margin: 0 12px;
 }
+
+.topLeft{
+    width: 50%;
+}
+
+.topRight{
+    width: 50%;
+}
+
+.section1{
+    height: 50vh;
+}
