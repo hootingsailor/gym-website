@@ -17,6 +17,10 @@ main{
     font-family: 'Inconsolata', monospace;
 }
 
+footer{
+    font-family: 'Raleway', sans-serif;
+}
+
 .logo{
     font-size: 1.4rem;
 }
@@ -56,6 +60,38 @@ main{
     width: 450px;
 }
 
+.section2{
+    padding-left: 63px;
+    padding-right: 63px;
+}
+
 .section2 h1{
+    font-size: 3rem;
+}
+
+.box{
+    padding: 8px 0;
+    margin: 12px 22px;
+    min-width: 20vw;
+    border: 2px solid black;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.box h2{
     font-size: 2rem;
+    padding: 15px 0;
+}
+
+.box ul{
+    list-style-type: none;
+}
+
+.box ul li{
+    margin: 12px 2px;
+}
+
+.highlighted{
+    font-size: 1.2rem;
+    font-weight: bolder;
 }
