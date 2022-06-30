@@ -33,12 +33,16 @@
 
 .font-bold{
     font-weight: bolder;
-    font-size: larger;
 }
 
 .my-1{
-    margin-top: 33px;
-    margin-bottom: 33px;
+    margin-top: 13px;
+    margin-bottom: 13px;
+}
+
+.my-2{
+    margin-top: 26px;
+    margin-bottom: 26px;
 }
 
 .px-2{
@@ -57,4 +61,12 @@
     cursor: pointer;
     color: white;
     background-color: rgb(14, 162, 215);
+}
+
+.overflow-x-hidden{
+    overflow-x: hidden;
+}
+
+.text-center{
+    text-align: center;
 }

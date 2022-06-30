@@ -17,6 +17,10 @@ main{
     font-family: 'Inconsolata', monospace;
 }
 
+.logo{
+    font-size: 1.4rem;
+}
+
 .navbar{
     display: flex;
     height: 67px;
@@ -37,5 +41,21 @@ main{
 }
 
 .section1{
-    height: 50vh;
+    min-height: 100vh;
+}
+
+.section1 h1{
+    font-size: 2rem;
+}
+
+.dumbellimg{
+    width: 280px;
+}
+
+.gymimg{
+    width: 450px;
+}
+
+.section2 h1{
+    font-size: 2rem;
 }
